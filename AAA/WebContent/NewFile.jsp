@@ -1,5 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -8,6 +8,6 @@
 
 </head>
 <body>
-<input type="button" style="width:100px; background-color:skyblue" value="¹öÆ°">
+<input type="button" style="width:100px; background-color:skyblue" value="ë²„íŠ¼">
 </body>
 </html>
