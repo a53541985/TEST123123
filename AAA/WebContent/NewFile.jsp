@@ -8,6 +8,6 @@
 
 </head>
 <body>
-<input type="button" style="width:100px; background-color:red">
+<input type="button" style="width:100px; background-color:skyblue">
 </body>
 </html>
