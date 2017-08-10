@@ -8,6 +8,6 @@
 
 </head>
 <body>
-<input type="button" style="width:100px; background-color:skyblue">
+<input type="button" style="width:100px; background-color:skyblue" value="¹öÆ°">
 </body>
 </html>
